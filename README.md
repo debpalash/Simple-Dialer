@@ -1,6 +1,28 @@
-# Simple Dialer
-<img alt="Logo" src="fastlane/metadata/android/en-US/images/icon.png" width="120" />
+# Simple Dialer + Truecaller Native Integration
+<img alt="Logo" src="fastlane/metadata/android/en-US/images/icon.png" width="120" /> ➕ <img alt="Logo" src="https://www.truecaller.com/favicon-96x96.png" width="80" />  
 
+
+Extra Features Added:
+* Trucaller support
+    a) You can use own api token striped from trucaller app.. (details coming)
+    b) Truecaller data on incoming and outgoing calls
+* Seperate menu to enable or disable trucaller features
+* Made dialer bigger for big human 👍's
+* Custom colors 🌈 unlocked
+
+Roadmap:
+ * Trucaller Number Search options
+ * UI enhancements
+ * You PR me :)
+ * You suggest /issues
+
+
+
+Inspiration from:
+ *
+
+
+Official Text:
 A lightweight app for handling your calls, no matter where are you. Comes with a handy call log for easy call initiation.
 
 There is a quick dialpad at your service too, with smart contact suggestions. It supports letters too.
@@ -13,20 +35,4 @@ It comes with material design and dark theme by default, provides great user exp
 
 Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
 
-<b>Check out the full suite of Simple Tools here:</b>
-https://www.simplemobiletools.com
-
-<b>Facebook:</b>
-https://www.facebook.com/simplemobiletools
-
-<b>Reddit:</b>
-https://www.reddit.com/r/SimpleMobileTools
-
-<a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.dialer'><img src='https://simplemobiletools.com/images/button-google-play.svg' alt='Get it on Google Play' height='45' /></a>
-<a href='https://f-droid.org/packages/com.simplemobiletools.dialer'><img src='https://simplemobiletools.com/images/button-f-droid.png' alt='Get it on F-Droid' height='45' /></a>
-
-<div style="display:flex;">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/english/1.jpg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/english/2.jpg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/english/3.jpg" width="30%">
-</div>
+Official Repo https://github.com/SimpleMobileTools/Simple-Dialer
